@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioGrupal</string>
+    <string name="entran">Entran</string>
+    <string name="salen">Salen</string>
+</resources>
